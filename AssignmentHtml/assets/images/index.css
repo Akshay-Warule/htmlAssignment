@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif !important;
+}
+.domain{
+    text-align: center;
+    background-color: #f6f3f3;
+    padding-bottom: 0px;
+
+}
+#demo{
+background-color: #f7f7fb;
+}
+#subdomain{
+    text-decoration: solid;
+    padding-top: 3px;
+}
+.card-title{
+    text-align: left;
+}
+.card{
+    margin-left: 20px;
+}
+.card-title{
+    margin-left: 30px;
+    padding-top: 10px;
+}
+.imgdiv{
+    margin: 0px 30px 0px 20px;
+}
+.client{
+    text-align: center;
+    margin: 50px;
+}
